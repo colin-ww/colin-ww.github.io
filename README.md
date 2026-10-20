@@ -1,13 +1,13 @@
 # Colin Wyllie Weaver
 
 Fun
-- [Kids' games](http://colin-ww.github.io/fun-games-kids)
+- [Kids' games](http://colin-ww.github.io/fun-games)
 
 Magic: the Gathering
-- [Colin's house rules](colin-ww.github.io/mtg-house-rules)
+- [Colin's house rules](http://colin-ww.github.io/mtg-house-rules)
 
 R
-- ['cranwatch'](colin-ww.github.io/cranwatch)
+- ['cranwatch'](http://colin-ww.github.io/cranwatch)
 
 Other:
 - x
